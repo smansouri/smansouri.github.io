@@ -8,9 +8,11 @@
 	<url>
 		<loc>https://2020.ag/en_US/help-center/2023-1/upgrade-guide/where-did-it-go/</loc>
 	</url>
-	<lastmod/>
 	<url>
 		<loc>https://2020.ag/en_US/help-center/2024-1/upgrade-guide/where-did-it-go/</loc>
+		<test/>
+			<lastmod/>
+
 	</url>
 	<url>
 		<loc>https://2020.ag/en_US/help-center/2023-0/systems/swath-control-settings/</loc>
